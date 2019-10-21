@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ContactsExportingTool</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_history">History</string>
+    <string name="start">Empezar</string>
+    <string name="title">Herramienta de exportación de contactos</string>
+    <string name="subTitle">Exporta todos tus contactos con una extensión de archivo personalizada</string>
+    <string name="permissionsNeeded">Se requieren permisos</string>
+    <string name="explanation">La aplicación necesita permisos para continuar</string>
+    <string name="ok">OK</string>
+    <string name="no">Cancelar</string>
+    <string name="CET">Exportar contactos</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="INTERN">INTERN</string>
+    <string name="PUBLIC">PUBLIC</string>
+    <string name="PRIVATE">PRIVATE</string>
+    <string name="loading">Cargando lista...</string>
+    <string name="firstTime">Configuración para la primera vez</string>
+    <string name="titleBuilder">Nombre del archivo</string>
+    <string name="saved">Guardado correctamente</string>
+    <string name="info_saved">Guardado en: </string>
+    <string name="info_date">Date: </string>
+    <string name="sharedPrefs_Contacts">contactFiles</string>
+    <string name="serializedObjectsFile">historyObs.out</string>
+    <string name="titleHistObj">title</string>
+    <string name="contentHistObj">content</string>
+    <string name="fileNotFound">No se ha encontrado el archivo</string>
+    <string name="nameEmpty">Debe introducir el nombre para el archivo</string>
+
+    <!-- Preference Titles -->
+    <string name="extension">Extensión</string>
+    <string name="storage">Guardar</string>
+
+    <!-- Extensión Preferences -->
+    <string name="ext">Extensión del archivo a guardar</string>
+    <string name="defValue">.csv</string>
+    <string name="key_extension">extension</string>
+
+    <!-- Guardar Preferences -->
+    <string name="guardar">Guardar en:</string>
+    <string name="title_activity_show_contacts">ShowContactsActivity</string>
+    <string name="key_almacenamiento">almacenamiento</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_show_history_item">ShowHistoryItemActivity</string>
+</resources>
